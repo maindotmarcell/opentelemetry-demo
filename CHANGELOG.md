@@ -13,6 +13,8 @@ the release.
   ([#1707](https://github.com/open-telemetry/opentelemetry-demo/pull/1707))
 * [chore] Fix gen-proto for accountingservice
   ([#1709](https://github.com/open-telemetry/opentelemetry-demo/pull/1709))
+* [flagd-ui] Add UI for managing Flagd feature flags
+  ([#1725](https://github.com/open-telemetry/opentelemetry-demo/pull/1725))
 
 ## 1.11.1
 
